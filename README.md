@@ -1,1 +1,0 @@
-# 30Days_of_code_Hackerrank
